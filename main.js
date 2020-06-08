@@ -10,6 +10,8 @@ axios.get('https://api.github.com/users/muNeves3')
 
 //----- exemplos das aulas
 
+//Promises -> .then(resultado esperado), .catch(desvio/erro)
+
 // axios.get('https://api.github.com/users/muNeves3')
 // 	.then(function(response){
 // 		console.log(response);
